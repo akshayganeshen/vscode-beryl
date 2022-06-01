@@ -2,7 +2,7 @@
   "name": "beryl",
   "displayName": "Beryl",
   "description": "VS Code colour scheme based on material colours.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.67.0"
   },

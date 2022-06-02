@@ -27,5 +27,6 @@
     "type": "git",
     "url": "https://github.com/akshayganeshen/vscode-beryl.git"
   },
-  "publisher": "akshayganeshen"
+  "publisher": "akshayganeshen",
+  "license": "MIT"
 }

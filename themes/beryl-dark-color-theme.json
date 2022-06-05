@@ -75,7 +75,8 @@
     "editorBracketHighlight.foreground3": "#FFFF00",
     "editorBracketHighlight.foreground4": "#B2FF59",
     "editorBracketHighlight.foreground5": "#64FFDA",
-    "editorBracketHighlight.foreground6": "#448AFF"
+    "editorBracketHighlight.foreground6": "#448AFF",
+    "editor.foldBackground": "#75757510"
   },
   "tokenColors": [
     {

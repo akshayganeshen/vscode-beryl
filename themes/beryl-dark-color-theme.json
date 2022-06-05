@@ -152,7 +152,10 @@
       "scope": [
         "storage.type",
         "keyword.interface",
-        "keyword.struct"
+        "keyword.struct",
+        "keyword.function",
+        "keyword.type",
+        "keyword.var"
       ],
       "settings": {
         "foreground": "#42A5F5"
@@ -255,7 +258,8 @@
       "scope": [
         "string",
         "string.quoted",
-        "string.quoted punctuation"
+        "string.quoted punctuation",
+        "entity.name.import"
       ],
       "settings": {
         "foreground": "#00C853"
@@ -288,7 +292,7 @@
     {
       "name": "Class, Support",
       "scope": [
-        "entity.name",
+        "entity.name - entity.name.package",
         "support.type",
         "support.class",
         "support.other.namespace.use.php",
@@ -336,13 +340,22 @@
       }
     },
     {
-      "name": "Language methods",
+      "name": "Language variables",
       "scope": [
         "variable.language"
       ],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#FFA726"
+      }
+    },
+    {
+      "name": "Language methods",
+      "scope": [
+        "support.function.builtin"
+      ],
+      "settings": {
+        "foreground": "#66BB6A"
       }
     },
     {

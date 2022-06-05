@@ -76,7 +76,13 @@
     "editorBracketHighlight.foreground4": "#B2FF59",
     "editorBracketHighlight.foreground5": "#64FFDA",
     "editorBracketHighlight.foreground6": "#448AFF",
-    "editor.foldBackground": "#75757510"
+    "editor.foldBackground": "#75757510",
+
+    // gutter
+    "editorGutter.addedBackground": "#66BB6A",
+    "editorGutter.deletedBackground": "#EF5350",
+    "editorGutter.modifiedBackground": "#29B6F6",
+    "editorGutter.commentRangeForeground": "#AB47BC"
   },
   "tokenColors": [
     {

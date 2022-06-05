@@ -651,11 +651,56 @@
       "name": "Markdown - Heading",
       "scope": [
         "markdown.heading",
-        "markup.heading | markup.heading entity.name",
-        "markup.heading.markdown punctuation.definition.heading.markdown"
+        "markup.heading",
+        "markup.heading | markup.heading entity.name"
       ],
       "settings": {
         "foreground": "#00C853"
+      }
+    },
+    {
+      "name": "Markdown - Heading Hash",
+      "scope": [
+        "markup.heading.markdown punctuation.definition.heading.markdown"
+      ],
+      "settings": {
+        "foreground": "#EF5350"
+      }
+    },
+    {
+      "name": "Markdown - Heading - Level 1",
+      "scope": [
+        "markup.heading heading.1.markdown"
+      ],
+      "settings": {
+        "foreground": "#EF5350"
+      }
+    },
+    {
+      "name": "Markdown - Heading - Level 2",
+      "scope": [
+        "markup.heading heading.2.markdown"
+      ],
+      "settings": {
+        "foreground": "#FFA726"
+      }
+    },
+    {
+      "name": "Markdown - Heading - Level 3",
+      "scope": [
+        "markup.heading heading.3.markdown"
+      ],
+      "settings": {
+        "foreground": "#26A69A"
+      }
+    },
+    {
+      "name": "Markdown - Heading - Level 4",
+      "scope": [
+        "markup.heading heading.4.markdown"
+      ],
+      "settings": {
+        "foreground": "#5C6BC0"
       }
     },
     {

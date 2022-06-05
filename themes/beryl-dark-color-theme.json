@@ -104,7 +104,7 @@
     {
       "name": "Variables",
       "scope": [
-        "variable"
+        "meta.definition.variable"
       ],
       "settings": {
         "foreground": "#FFA726"
@@ -162,7 +162,7 @@
       "name": "Operator, Misc",
       "scope": [
         "keyword.control",
-        "punctuation",
+        "punctuation - punctuation.other",
         "punctuation.definition.tag",
         "punctuation.separator.inheritance.php",
         "punctuation.definition.tag.html",
@@ -191,22 +191,12 @@
       "name": "Function, Special Method",
       "scope": [
         "entity.name.function",
-        "meta.function-call",
         "variable.function",
         "support.function",
         "keyword.other.special-method"
       ],
       "settings": {
         "foreground": "#00C853"
-      }
-    },
-    {
-      "name": "Block Level Variables",
-      "scope": [
-        "meta.block variable.other"
-      ],
-      "settings": {
-        "foreground": "#FFA726"
       }
     },
     {

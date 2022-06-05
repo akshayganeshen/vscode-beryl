@@ -69,7 +69,13 @@
     "editorRuler.foreground": "#9E9E9E",
     "editorLightBulb.foreground": "#FFC400",
     "editorLightBulbAutoFix.foreground": "#FFC400",
-    "editorBracketMatch.border": "#F5F5F580"
+    "editorBracketMatch.border": "#F5F5F580",
+    "editorBracketHighlight.foreground1": "#FF5252",
+    "editorBracketHighlight.foreground2": "#FF6E40",
+    "editorBracketHighlight.foreground3": "#FFFF00",
+    "editorBracketHighlight.foreground4": "#B2FF59",
+    "editorBracketHighlight.foreground5": "#64FFDA",
+    "editorBracketHighlight.foreground6": "#448AFF"
   },
   "tokenColors": [
     {
